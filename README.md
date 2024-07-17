@@ -40,8 +40,12 @@ Replace the MONGO_URI present in the db.js in backend file.
 ```bash
 npm start (in frontend)
 npm run dev (in backend)
+```
+## Screenshots
+![Screenshot (119)](https://github.com/user-attachments/assets/e40aff80-8521-4d8b-81f1-7c6889405492)
 
+![Screenshot (120)](https://github.com/user-attachments/assets/51800e86-5a52-400c-b130-29e958ee5e91)
 
+![Screenshot (118)](https://github.com/user-attachments/assets/43a0ff08-cf58-4b78-bbbc-c4960e1c43b3)
 
-
-    
+![Screenshot (117)](https://github.com/user-attachments/assets/80f5e15b-aeda-499f-9498-c248fb0971c3)
